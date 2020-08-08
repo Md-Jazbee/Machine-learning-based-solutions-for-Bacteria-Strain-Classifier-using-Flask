@@ -1,1 +1,1 @@
-# Machine-learning-solutions-to-fight-the-Bacteria-Strain-Classifier-using-Flask
+# Machine-learning-based-solutions-for-Bacteria-Strain-Classifier-using-Flask
