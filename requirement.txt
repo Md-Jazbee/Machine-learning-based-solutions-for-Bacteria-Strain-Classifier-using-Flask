@@ -1,0 +1,6 @@
+Flask
+Bio
+Tensorflow
+keras
+biopython
+psutil
